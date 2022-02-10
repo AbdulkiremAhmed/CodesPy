@@ -36,6 +36,6 @@ else:
       
    elif q == "no" or q == "No":
    
-      print(f"\'{yourname}\' you\'r can out")
+      print(f"\'{yourname}\' you can out")
    else : 
       print ("your input thing rong")
